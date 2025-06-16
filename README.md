@@ -1,4 +1,4 @@
-# 📦 Inventory Management System – Advanced Java Project
+# 📦 Inventory Management System – Advance Java Project
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-Advanced%20Java-blue" alt="Java">
